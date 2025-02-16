@@ -3,12 +3,13 @@
 Welcome to **Week 1** of the Virtunexa Internship! 🚀  
 This repository contains three Python-based projects:  
 - **Web Scraper** 🕵️‍♂️  
-- **GUI Calculator** 🧮  
+- **GUI Calculator** 🧮
+- **Console Calculator** 🔢  
 - **Text-Based Adventure Game** 🎮  
 
 ## **📂 Project Overview**  
 
-### **1️⃣ Web Scraper (web_scraper.py)**
+### **1️⃣ Web Scraper **
 **Goal:** Extract relevant data (e.g., headlines, links, product details) from a website and store it in CSV/JSON format.  
 
 🔹 **Features:**  
@@ -41,7 +42,23 @@ python GUI_Calculator.py
 
 ---
 
-### **3️⃣ Text-Based Adventure Game (Text_Adventure.ipynb)**
+### **3️⃣ Console Calculator (Console_Calculator.py)**
+**Goal:** Develop a simple, text-based calculator for performing basic arithmetic operations.  
+
+🔹 **Features:**  
+- Supports **addition, subtraction, multiplication, and division**.  
+- Handles **invalid inputs** (e.g., non-numeric values, division by zero).  
+- Allows **continuous calculations** until the user decides to exit.  
+
+📌 **How to Run:**  
+```bash
+python Console_Calculator.py
+```
+🔹 Follow the on-screen prompts to enter numbers and operators!  
+
+---
+
+### **4️⃣ Text-Based Adventure Game (Text_Adventure.ipynb)**
 **Goal:** Develop an interactive **dungeon escape game** with **multiple choices & inventory management**.  
 
 🔹 **Features:**  

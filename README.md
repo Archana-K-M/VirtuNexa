@@ -1,7 +1,6 @@
 # Virtunexa Internship - Week 1 Tasks  
 
 Welcome to **Week 1** of the Virtunexa Internship! 🚀  
-This repository contains three Python-based projects:  
 - **Web Scraper** 🕵️‍♂️  
 - **GUI Calculator** 🧮
 - **Console Calculator** 🔢  

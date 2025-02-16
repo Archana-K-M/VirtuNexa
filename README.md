@@ -8,7 +8,7 @@ Welcome to **Week 1** of the Virtunexa Internship! 🚀
 
 ## **📂 Project Overview**  
 
-### **1️⃣ Web Scraper **
+### **1️⃣ Web Scraper (Web_Scraper.ipynb)**
 **Goal:** Extract relevant data (e.g., headlines, links, product details) from a website and store it in CSV/JSON format.  
 
 🔹 **Features:**  

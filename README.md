@@ -79,6 +79,27 @@ python Console_Calculator.py
 - **CSV & JSON** 📄 – Data storage formats.  
 
 ---
+# Virtunexa Internship - Week 2  Tasks    
 
+Welcome to **Week 2** of the Virtunexa Internship! 🚀  
+- **Automated Email Sender** 📧  
+
+---
+## **📂 Project Overview**  
+
+### **1️⃣ Automated Email Sender (send_email.py)**
+**Goal:** Write a Python script that sends automated emails with attachments using SMTP, personalized with user details from a CSV file.  
+
+🔹 **Features:**  
+   - Reads recipient details (name, email) from a CSV file.
+   - Uses SMTP to send emails with attachments.
+   - Supports personalized messages for each recipient.  
+
+📌 **How to Run:**  
+```bash
+python send_email.py
+```
+
+---
 🔹 **Enjoy exploring the projects!** 🚀🔥
 

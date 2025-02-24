@@ -99,6 +99,11 @@ Welcome to **Week 2** of the Virtunexa Internship! 🚀
 ```bash
 python send_email.py
 ```
+---
+## **📌 Technologies Used**
+- **Python** 🐍 – Core programming language.  
+- **SMPT & Pandas** 🌐 - To send emails. 
+- **CSV & JSON** 📄 – Data storage formats.
 
 ---
 🔹 **Enjoy exploring the projects!** 🚀🔥

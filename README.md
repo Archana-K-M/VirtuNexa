@@ -104,6 +104,62 @@ python send_email.py
 - **Python** 🐍 – Core programming language.  
 - **SMPT & Pandas** 🌐 - To send emails. 
 - **CSV & JSON** 📄 – Data storage formats.
+---
+# Virtunexa Internship - Week 3  Tasks    
+
+Welcome to **Week 3** of the Virtunexa Internship! 🚀  
+- **voice-activated virtual assistant** 📧  
+---
+
+## Project Overview
+This is a simple **voice-activated virtual assistant** built with Python. It can:
+- ✅ **Set reminders** ⏰
+- ✅ **Answer simple questions** 🗣️
+- ✅ **Provide weather updates** 🌦️ (using OpenWeather API)
+
+## Features
+- **Voice Command Recognition** 🎤 (Uses `speech_recognition`)
+- **Text-to-Speech Output** 🗣️ (Uses `pyttsx3`)
+- **Weather API Integration** 🌍 (Uses OpenWeather API)
+- **Reminder System** ⏰ (Uses `time.sleep`)
+- **Exit Command** 🏁 (Say "exit" to quit)
+---
+## Installation
+### 1️⃣ Install Dependencies
+Ensure you have Python installed, then run:
+```bash
+pip install requests pyttsx3 speechrecognition
+```
+
+### 2️⃣ Get an OpenWeather API Key
+- Sign up at [OpenWeather](https://openweathermap.org/api)
+- Get your API key and replace it in `API_KEY` inside the script.
+
+### 3️⃣ Run the Script
+```bash
+python virtual_assistant.py
+```
+---
+## How It Works
+1️⃣ Run the script, and the assistant will greet you.  
+2️⃣ Say **"weather"** → It will ask for the city and give the weather report.  
+3️⃣ Say **"reminder"** → It will ask what to remind you about and in how many seconds.  
+4️⃣ Say **"exit"** → To stop the assistant.  
+
+## Example Usage
+```
+You: Weather
+Assistant: Which city?
+You: New York
+Assistant: The weather in New York is clear with a temperature of 15°C.
+```
+---
+## **📌 Technologies Used**
+- **Python** 🐍 – Core programming language
+- **SpeechRecognition** 🎙️ – Recognizing user voice commands
+- **pyttsx3** 🗣️ – Converting text to speech
+- **Requests** 🌍 – Fetching weather data from OpenWeather API
+- **Time** ⏰ – Handling reminders
 
 ---
 🔹 **Enjoy exploring the projects!** 🚀🔥
